@@ -3,4 +3,4 @@ An email ghostwriter using chatgpt to help you in your day to day emailing activ
 
 # Video Demonstration
 
-[Watch a live demonstration of the gpt-ghostwritter app.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[Watch a live demonstration of the gpt-ghostwriter app.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
